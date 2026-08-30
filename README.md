@@ -8,6 +8,15 @@ Eine kleine, sorgfältig erprobte Sammlung guter Rezepte – unkompliziert, gem�
 
 - [Eifreier Airfryer-Käsekuchen ohne Boden](rezepte/eifreier-airfryer-kaesekuchen.md) – mit Frischkäse und Honig
 
+### Herzhaftes
+
+- [Meerrettich-Frischkäse-Aufstrich](rezepte/meerrettich-frischkaese-aufstrich.md) – für Roastbeef-Bagels
+
+### Römische Küche
+
+- [Libum](rezepte/libum.md) – römisches Käsebrot auf Lorbeerblättern
+- [Moretum](rezepte/moretum.md) – römischer Käse-Kräuter-Aufstrich
+
 ## Über die Rezepte
 
 Die Rezepte sind für den Alltag geschrieben: klare Mengen, nachvollziehbare Schritte und Hinweise darauf, woran man erkennt, dass ein Gericht gelungen ist. Anpassungen und neue Varianten dürfen gern über Issues oder Pull Requests vorgeschlagen werden.
