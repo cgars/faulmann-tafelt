@@ -10,6 +10,7 @@ Eine kleine, sorgfältig erprobte Sammlung guter Rezepte – unkompliziert, gem�
 
 ### Herzhaftes
 
+- [Herzhaftes Granola aus der Ninja Dual Zone](rezepte/herzhaftes-ninja-granola.md) – Rauchpaprika und Rosmarin, mit vier Varianten und Volleipulver-Option; Entwurf, noch nicht erprobt
 - [Meerrettich-Frischkäse-Aufstrich](rezepte/meerrettich-frischkaese-aufstrich.md) – für Roastbeef-Bagels
 
 ### Römische Küche
