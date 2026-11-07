@@ -10,6 +10,9 @@ Eine kleine, sorgfältig erprobte Sammlung guter Rezepte – unkompliziert, gem�
 
 ### Herzhaftes
 
+- [Cremige Pistazienpasta mit Zitrone und Parmesan](rezepte/pistazienpasta-mit-zitrone-und-parmesan.md) – einfache Variante bereits mit gutem Ergebnis gekocht
+- [Ofenblumenkohl mit Pistazien-Joghurt-Sauce](rezepte/ofenblumenkohl-mit-pistazien-joghurt-sauce.md) – frische, nussige Sauce; Entwurf, noch nicht erprobt
+- [Pistazien-Ingwer-Sauce mit Tofu oder Hähnchen](rezepte/pistazien-ingwer-sauce-mit-tofu-oder-haehnchen.md) – mit Knoblauch-Ingwer-Paste und Limette; Entwurf, noch nicht erprobt
 - [Herzhaftes Granola aus der Ninja Dual Zone](rezepte/herzhaftes-ninja-granola.md) – Rauchpaprika und Rosmarin, mit vier Varianten und Volleipulver-Option; Entwurf, noch nicht erprobt
 - [Meerrettich-Frischkäse-Aufstrich](rezepte/meerrettich-frischkaese-aufstrich.md) – für Roastbeef-Bagels
 
