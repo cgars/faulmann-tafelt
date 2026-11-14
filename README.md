@@ -15,6 +15,7 @@ Eine kleine, sorgfältig erprobte Sammlung guter Rezepte – unkompliziert, gem�
 - [Pistazien-Ingwer-Sauce mit Tofu oder Hähnchen](rezepte/pistazien-ingwer-sauce-mit-tofu-oder-haehnchen.md) – mit Knoblauch-Ingwer-Paste und Limette; Entwurf, noch nicht erprobt
 - [Herzhaftes Granola aus der Ninja Dual Zone](rezepte/herzhaftes-ninja-granola.md) – Rauchpaprika und Rosmarin, mit vier Varianten und Volleipulver-Option; Entwurf, noch nicht erprobt
 - [Meerrettich-Frischkäse-Aufstrich](rezepte/meerrettich-frischkaese-aufstrich.md) – für Roastbeef-Bagels
+- [Wildschweinburger mit Gorgonzola und Schwarzwälder Schinken](rezepte/wildschweinburger-mit-gorgonzola-und-schwarzwalder-schinken.md) – kräftiger Burger mit Balsamico-Zwiebeln; Entwurf, noch nicht erprobt
 
 ### Römische Küche
 
