@@ -53,7 +53,9 @@ Die Patties sind **vollständig durchgegart, aber nicht unnötig trocken**. Der 
 
 - **Geschmack:** „Hat wunderbar geschmeckt.“
 - **Schinken:** Die Adler-Schinkenstreifen wurden **im Airfryer frittiert und als knuspriges Topping obenauf** gegeben, **nicht ins Hack gemischt**.
-- Noch offen: ob zusätzliches Fett ins Wildhack kam und welche übrigen Mengen exakt verwendet wurden.
+- **Fleisch:** Die 500 g Wildschweinhack wurden pur verwendet, **ohne zusätzliche Fett- oder Schweinebauchzugabe**.
+- Noch offen: welche übrigen Mengen exakt verwendet wurden.
+- **Grobe Nährwertschätzung je Burger (bei drei Burgern aus 500 g Hack):** etwa 650–700 kcal, rund 50 g Eiweiß, 25–30 g Fett und 45–50 g Kohlenhydrate. Die tatsächlichen Werte hängen besonders vom Fettgehalt des Wildhacks, vom Bun und vom verwendeten Bratfett ab.
 
 ## Hinweise und Varianten
 
