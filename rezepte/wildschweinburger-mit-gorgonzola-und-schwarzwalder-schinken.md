@@ -2,7 +2,7 @@
 
 Kräftiges Wildschwein, cremiger Gorgonzola Piccante, rauchiger Schwarzwälder Schinken und süß-säuerliche Balsamico-Zwiebeln. Ein herzhafter Burger, bei dem die einzelnen Zutaten etwas zu erzählen haben, ohne dass eine BBQ-Sauce dazwischenreden muss.
 
-**Stand: Rezeptentwurf vom 14. November 2026, noch nicht praktisch erprobt.** Mengen und Vorgehen sind ein erster Vorschlag. Garzeiten richten sich nach Dicke, Pfanne und Kerntemperatur.
+**Stand: erster Praxistest am 15. November 2026 – geschmacklich sehr gelungen.** Bestätigt ist insbesondere: Die Schwarzwälder Schinkenstreifen wurden separat im Airfryer knusprig zubereitet und erst beim Belegen oben auf den Burger gegeben. Andere genaue Mengen und Ausführungsschritte sind noch nicht vollständig rückbestätigt. Garzeiten richten sich nach Dicke, Pfanne und Kerntemperatur.
 
 ## Eckdaten
 
@@ -38,7 +38,7 @@ Zunächst **kein zusätzliches Salz** einplanen: Schwarzwälder Schinken und Gor
 
 1. **Fleisch auftauen:** Das gefrorene Wildschweinhack abgedeckt im Kühlschrank vollständig auftauen lassen; Tauflüssigkeit auffangen und entsorgen. Bis zur Verarbeitung kühl halten.
 2. **Zwiebeln schmoren:** Rote Zwiebeln halbieren und in feine Streifen schneiden. In Butter oder Öl bei mittlerer bis niedriger Hitze 15–20 Minuten weich und leicht braun werden lassen. Mit zunächst 1 EL Balsamico ablöschen, kurz einkochen und nach Geschmack noch etwas ergänzen.
-3. **Schinken zubereiten:** Adler-Schinkenstreifen bei mittlerer Hitze ohne viel zusätzliches Fett in der Pfanne anrösten, bis sie leicht knusprig sind. Herausnehmen und für das Topping beiseitestellen.
+3. **Schinken zubereiten (erprobt):** Adler-Schinkenstreifen im Airfryer ohne zusätzliches Fett knusprig garen und erst beim Zusammenbauen oben auf die Patties geben. Temperatur und Dauer hängen von Gerät und Streifendicke ab: mit kurzer Zeit beginnen und regelmäßig prüfen, damit der Schinken nicht verbrennt.
 4. **Patties formen:** Wildschweinhack bei Bedarf mit dem sehr fein gewolften, ungeräucherten Schweinebauch locker vermischen. Mit schwarzem Pfeffer würzen und drei möglichst gleichmäßige Patties formen. Nicht lange kneten oder stark zusammenpressen.
 5. **Patties braten:** In etwas Öl bei mittlerer bis kräftiger Hitze von beiden Seiten anbräunen. Anschließend die Hitze reduzieren und vollständig durchgaren. **Bei Wildschweinhack im Inneren mindestens 70 °C für zwei Minuten erreichen**, am besten mit einem Fleischthermometer kontrollieren. Eine feste Minutenangabe pro Seite wäre hier unzuverlässig.
 6. **Gorgonzola schmelzen:** Kurz vor dem Servieren je 25–30 g Käse auf die durchgegarten Patties geben. Mit Deckel bei schwacher Hitze kurz weich werden lassen.
@@ -48,6 +48,12 @@ Zunächst **kein zusätzliches Salz** einplanen: Schwarzwälder Schinken und Gor
 ## Woran erkennt man, dass es gelungen ist?
 
 Die Patties sind **vollständig durchgegart, aber nicht unnötig trocken**. Der Gorgonzola ist cremig, der Schinken liefert rauchige Knusprigkeit und die Zwiebeln bringen etwas Säure gegen die kräftigen, salzigen Aromen. Der Wildgeschmack bleibt erkennbar.
+
+## Rückmeldung vom ersten Praxistest
+
+- **Geschmack:** „Hat wunderbar geschmeckt.“
+- **Schinken:** Die Adler-Schinkenstreifen wurden **im Airfryer frittiert und als knuspriges Topping obenauf** gegeben, **nicht ins Hack gemischt**.
+- Noch offen: ob zusätzliches Fett ins Wildhack kam und welche übrigen Mengen exakt verwendet wurden.
 
 ## Hinweise und Varianten
 
